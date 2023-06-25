@@ -1,2 +1,2 @@
-# my_ML_portfolio
+# portfolio_ML
 This is my machine learning portfolio
