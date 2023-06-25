@@ -6,8 +6,7 @@ In this portfolio I will put all my machine learning projects with the aim of sp
 
 **Rielo Luciano E.**
 
-*[LinkedIn](www.linkedin.com/in/luciano-rielo-b63149172)
-
 ## Contact
 
 Any questions contact: rieloluciano@hotmail.com
+[LinkedIn](www.linkedin.com/in/luciano-rielo-b63149172)
