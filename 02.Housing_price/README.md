@@ -3,11 +3,11 @@
 ## Creación de **entorno virtual**
 
 ```bash
-cd machine_learning_practice
-mkdir 02.Housing_Price
-virtualenv safe_house
 
-source safe_house/bin/activate
+mkdir 02.Housing_Price
+python -m venv env
+
+env\Scripts\activate
 
 pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 ```
