@@ -12,11 +12,6 @@ source safe_house/bin/activate
 pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 ```
 
-## Funciones creadas:
-
-- fetch_data: crea una carpeta donde se ubica el dataset, se descarga un archivo .tgz, y se lo descomprime
-- load_data: se carga en una variable el dataset dentro de un archivo csv
-
 ## Análisis
 
 - Se descarga el dataset mediante ***fetch_data*** y ***load_data***
