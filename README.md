@@ -8,4 +8,6 @@ In this portfolio I will put all my machine learning projects with the aim of sp
 
 ## Contact
 
-Any questions contact: rieloluciano@hotmail.com  \n  [LinkedIn](www.linkedin.com/in/luciano-rielo-b63149172)
+Any questions contact: <br>
+rieloluciano@hotmail.com  <br>  
+[LinkedIn](www.linkedin.com/in/luciano-rielo-b63149172)
